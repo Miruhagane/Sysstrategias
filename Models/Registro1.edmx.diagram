@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ad05397bb8094dc7a75282740665b80d" Name="Diagram1" ZoomLevel="73">
+        <EntityTypeShape EntityType="SysDesarrolloHModel.Ct_Plaza" Width="1.5" PointX="4.25" PointY="1.375" />
+        <EntityTypeShape EntityType="SysDesarrolloHModel.Ct_NivelCursos" Width="1.5" PointX="4.25" PointY="3.125" />
+        <EntityTypeShape EntityType="SysDesarrolloHModel.Tb_UsuariosCurso" Width="1.5" PointX="6.375" PointY="1.375" />
+        <EntityTypeShape EntityType="SysDesarrolloHModel.Ct_ActivoCursos" Width="1.5" PointX="8.375" PointY="1.375" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

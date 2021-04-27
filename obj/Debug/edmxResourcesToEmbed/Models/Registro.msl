@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CursosModelStoreContainer" CdmEntityContainer="CursosEntities">
+    <EntitySetMapping Name="Tb_Usuarios">
+      <EntityTypeMapping TypeName="CursosModel.Tb_Usuarios">
+        <MappingFragment StoreEntitySet="Tb_Usuarios">
+          <ScalarProperty Name="Int_IdUsuario" ColumnName="Int_IdUsuario" />
+          <ScalarProperty Name="Txt_Usuario" ColumnName="Txt_Usuario" />
+          <ScalarProperty Name="Txt_Password" ColumnName="Txt_Password" />
+          <ScalarProperty Name="Txt_Password2" ColumnName="Txt_Password2" />
+          <ScalarProperty Name="Txt_Password3" ColumnName="Txt_Password3" />
+          <ScalarProperty Name="Int_IdArea" ColumnName="Int_IdArea" />
+          <ScalarProperty Name="Int_IdSubarea" ColumnName="Int_IdSubarea" />
+          <ScalarProperty Name="Int_IdDepartamento" ColumnName="Int_IdDepartamento" />
+          <ScalarProperty Name="Txt_Email" ColumnName="Txt_Email" />
+          <ScalarProperty Name="Int_IdPlaza" ColumnName="Int_IdPlaza" />
+          <ScalarProperty Name="Int_IdArbol" ColumnName="Int_IdArbol" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

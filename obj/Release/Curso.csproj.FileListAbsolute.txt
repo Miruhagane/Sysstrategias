@@ -1,0 +1,527 @@
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\Curso.dll.config
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\Curso.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\Curso.pdb
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\csc.exe
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\csc.exe.config
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\csc.rsp
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\csi.exe
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\csi.exe.config
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\csi.rsp
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.AppContext.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Console.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.IO.Compression.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Net.Http.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.ValueTuple.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\vbc.exe
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\vbc.exe.config
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\vbc.rsp
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\VBCSCompiler.exe
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\Antlr3.Runtime.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\EntityFramework.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\EntityFramework.SqlServer.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\Newtonsoft.Json.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\System.Web.Helpers.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\System.Web.Mvc.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\System.Web.Optimization.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\System.Web.Razor.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\System.Web.WebPages.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\System.Web.WebPages.Razor.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\WebGrease.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\EntityFramework.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\EntityFramework.SqlServer.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\Newtonsoft.Json.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\System.Web.Helpers.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\System.Web.Mvc.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\System.Web.Optimization.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\System.Web.Razor.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\System.Web.WebPages.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\System.Web.WebPages.Razor.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\Antlr3.Runtime.pdb
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\es\System.Web.Helpers.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\es\System.Web.Mvc.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\es\System.Web.Optimization.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\es\System.Web.Razor.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\es\System.Web.WebPages.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\obj\Release\Curso.csprojAssemblyReference.cache
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\obj\Release\Curso.csproj.CoreCompileInputs.cache
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\obj\Release\Curso.csproj.CopyComplete
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\obj\Release\Curso.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia\obj\Release\Curso.pdb
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\Curso.dll.config
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\Curso.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\Curso.pdb
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\csc.exe
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\csc.exe.config
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\csc.rsp
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\csi.exe
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\csi.exe.config
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\csi.rsp
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.AppContext.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Console.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.IO.Compression.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Net.Http.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.ValueTuple.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\vbc.exe
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\vbc.exe.config
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\vbc.rsp
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\VBCSCompiler.exe
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\Antlr3.Runtime.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\EntityFramework.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\EntityFramework.SqlServer.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\Newtonsoft.Json.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Web.Helpers.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Web.Mvc.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Web.Optimization.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Web.Razor.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Web.WebPages.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Web.WebPages.Razor.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\WebGrease.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\EntityFramework.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\EntityFramework.SqlServer.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\Newtonsoft.Json.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Web.Helpers.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Web.Mvc.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Web.Optimization.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Web.Razor.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Web.WebPages.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Web.WebPages.Razor.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\Antlr3.Runtime.pdb
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\es\System.Web.Helpers.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\es\System.Web.Mvc.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\es\System.Web.Optimization.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\es\System.Web.Razor.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\es\System.Web.WebPages.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\obj\Release\Curso.csprojAssemblyReference.cache
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\obj\Release\Curso.csproj.CoreCompileInputs.cache
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\obj\Release\Curso.csproj.CopyComplete
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\obj\Release\Curso.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\obj\Release\Curso.pdb
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Data.Common.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Diagnostics.StackTrace.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Diagnostics.Tracing.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Globalization.Extensions.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.IO.Compression.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Net.Http.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Net.Sockets.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Security.SecureString.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Threading.Overlapped.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Xml.XPath.XDocument.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\Google.Protobuf.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Buffers.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Memory.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Numerics.Vectors.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\Google.Protobuf.pdb
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\Google.Protobuf.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Buffers.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Memory.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Numerics.Vectors.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Curso.dll.config
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Curso.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Curso.pdb
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\csc.exe
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\csc.exe.config
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\csc.rsp
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\csi.exe
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\csi.exe.config
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\csi.rsp
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.AppContext.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Console.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.IO.Compression.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Net.Http.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.ValueTuple.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\vbc.exe
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\vbc.exe.config
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\vbc.rsp
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\VBCSCompiler.exe
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Data.Common.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Diagnostics.StackTrace.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Diagnostics.Tracing.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Globalization.Extensions.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.IO.Compression.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Net.Http.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Net.Sockets.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Security.SecureString.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Threading.Overlapped.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Xml.XPath.XDocument.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Antlr3.Runtime.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\EntityFramework.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\EntityFramework.SqlServer.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Google.Protobuf.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Newtonsoft.Json.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Buffers.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Memory.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Numerics.Vectors.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Web.Helpers.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Web.Mvc.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Web.Optimization.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Web.Razor.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Web.WebPages.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Web.WebPages.Razor.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\WebGrease.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\EntityFramework.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\EntityFramework.SqlServer.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Google.Protobuf.pdb
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Google.Protobuf.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Newtonsoft.Json.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Buffers.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Memory.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Numerics.Vectors.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Web.Helpers.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Web.Mvc.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Web.Optimization.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Web.Razor.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Web.WebPages.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\System.Web.WebPages.Razor.xml
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Antlr3.Runtime.pdb
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\es\System.Web.Helpers.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\es\System.Web.Mvc.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\es\System.Web.Optimization.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\es\System.Web.Razor.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\es\System.Web.WebPages.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\obj\Release\Curso.csprojAssemblyReference.cache
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\obj\Release\Curso.csproj.CoreCompileInputs.cache
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\obj\Release\Curso.csproj.CopyComplete
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\obj\Release\Curso.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\obj\Release\Curso.pdb
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AuxiliarProgramación\Desktop\Curso - copia - copia - copia - copia\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Curso.dll.config
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Curso.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Curso.pdb
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\csc.exe
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\csc.exe.config
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\csc.rsp
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\csi.exe
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\csi.exe.config
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\csi.rsp
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.AppContext.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Console.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.IO.Compression.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Net.Http.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.ValueTuple.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\vbc.exe
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\vbc.exe.config
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\vbc.rsp
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\VBCSCompiler.exe
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Microsoft.Win32.Primitives.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\netstandard.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.AppContext.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Collections.Concurrent.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Collections.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Collections.NonGeneric.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Collections.Specialized.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.ComponentModel.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.ComponentModel.Primitives.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Console.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Data.Common.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Diagnostics.Contracts.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Diagnostics.Debug.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Diagnostics.Process.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Diagnostics.StackTrace.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Diagnostics.Tools.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Diagnostics.TraceSource.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Diagnostics.Tracing.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Drawing.Primitives.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Dynamic.Runtime.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Globalization.Calendars.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Globalization.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Globalization.Extensions.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.IO.Compression.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.IO.Compression.ZipFile.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.IO.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.IO.FileSystem.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.IO.IsolatedStorage.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.IO.Pipes.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Linq.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Linq.Expressions.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Linq.Parallel.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Linq.Queryable.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Net.Http.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Net.NameResolution.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Net.NetworkInformation.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Net.Ping.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Net.Primitives.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Net.Requests.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Net.Security.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Net.Sockets.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Net.WebHeaderCollection.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Net.WebSockets.Client.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Net.WebSockets.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.ObjectModel.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Reflection.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Reflection.Extensions.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Reflection.Primitives.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Resources.Reader.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Resources.ResourceManager.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Resources.Writer.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Runtime.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Runtime.Extensions.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Runtime.Handles.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Runtime.InteropServices.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Runtime.Numerics.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Runtime.Serialization.Json.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Security.Claims.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Security.Cryptography.Csp.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Security.Principal.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Security.SecureString.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Text.Encoding.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Text.Encoding.Extensions.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Text.RegularExpressions.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Threading.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Threading.Overlapped.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Threading.Tasks.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Threading.Thread.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Threading.ThreadPool.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Threading.Timer.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.ValueTuple.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Xml.ReaderWriter.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Xml.XDocument.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Xml.XmlDocument.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Xml.XmlSerializer.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Xml.XPath.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Xml.XPath.XDocument.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Antlr3.Runtime.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\EntityFramework.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\EntityFramework.SqlServer.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Google.Protobuf.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Newtonsoft.Json.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Buffers.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Memory.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Numerics.Vectors.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Web.Helpers.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Web.Mvc.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Web.Optimization.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Web.Razor.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Web.WebPages.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Web.WebPages.Razor.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\WebGrease.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\EntityFramework.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\EntityFramework.SqlServer.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Google.Protobuf.pdb
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Google.Protobuf.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Newtonsoft.Json.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Buffers.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Memory.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Numerics.Vectors.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Web.Helpers.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Web.Mvc.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Web.Optimization.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Web.Razor.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Web.WebPages.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\System.Web.WebPages.Razor.xml
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\Antlr3.Runtime.pdb
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\es\System.Web.Helpers.resources.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\es\System.Web.Mvc.resources.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\es\System.Web.Optimization.resources.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\es\System.Web.Razor.resources.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\es\System.Web.WebPages.resources.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\obj\Release\Curso.csprojAssemblyReference.cache
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\obj\Release\Curso.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\obj\Release\Curso.csproj.CopyComplete
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\obj\Release\Curso.dll
+C:\Users\CARLOS\Desktop\back\Curso - copia - copia - copia - copia\obj\Release\Curso.pdb

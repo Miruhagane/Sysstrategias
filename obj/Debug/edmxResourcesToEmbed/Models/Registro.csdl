@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CursosModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Tb_Usuarios">
+    <Key>
+      <PropertyRef Name="Int_IdUsuario" />
+    </Key>
+    <Property Name="Int_IdUsuario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Txt_Usuario" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Txt_Password" Type="String" MaxLength="8" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Txt_Password2" Type="String" MaxLength="8" FixedLength="false" Unicode="true" />
+    <Property Name="Txt_Password3" Type="String" MaxLength="8" FixedLength="false" Unicode="true" />
+    <Property Name="Int_IdArea" Type="Int32" Nullable="false" />
+    <Property Name="Int_IdSubarea" Type="Int32" Nullable="false" />
+    <Property Name="Int_IdDepartamento" Type="Int32" Nullable="false" />
+    <Property Name="Txt_Email" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Int_IdPlaza" Type="Int32" Nullable="false" />
+    <Property Name="Int_IdArbol" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="CursosEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Tb_Usuarios" EntityType="Self.Tb_Usuarios" />
+  </EntityContainer>
+</Schema>

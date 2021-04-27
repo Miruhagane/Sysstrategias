@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SysDesarrolloHModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="SysDesarrolloHEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Ct_Plaza" EntityType="SysDesarrolloHModel.Ct_Plaza" />
+    <EntitySet Name="Ct_NivelCursos" EntityType="SysDesarrolloHModel.Ct_NivelCursos" />
+    <EntitySet Name="Tb_UsuariosCurso" EntityType="SysDesarrolloHModel.Tb_UsuariosCurso" />
+    <EntitySet Name="Ct_ActivoCursos" EntityType="SysDesarrolloHModel.Ct_ActivoCursos" />
+  </EntityContainer>
+  <EntityType Name="Ct_Plaza">
+    <Key>
+      <PropertyRef Name="Int_IdPlaza" />
+    </Key>
+    <Property Name="Int_IdPlaza" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Txt_Plaza" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Ct_NivelCursos">
+    <Key>
+      <PropertyRef Name="Int_IdNivel" />
+    </Key>
+    <Property Name="Int_IdNivel" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Txt_Nivel" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Tb_UsuariosCurso">
+    <Key>
+      <PropertyRef Name="Int_IdUsuario" />
+    </Key>
+    <Property Name="Int_IdUsuario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Txt_Usuario" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Txt_Password" Type="String" Nullable="false" MaxLength="8" FixedLength="false" Unicode="true" />
+    <Property Name="Int_IdGerente" Type="Int32" Nullable="false" />
+    <Property Name="Txt_Gerente" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Txt_Email" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Int_IdPlaza" Type="Int32" Nullable="false" />
+    <Property Name="Int_IdNivel" Type="Int32" Nullable="false" />
+    <Property Name="Fec_Inicio" Type="DateTime" Precision="0" />
+    <Property Name="Fec_Fin" Type="DateTime" Precision="0" />
+    <Property Name="Bol_Activo" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ct_ActivoCursos">
+    <Key>
+      <PropertyRef Name="Bol_Activo" />
+    </Key>
+    <Property Name="Bol_Activo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Txt_Activo" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

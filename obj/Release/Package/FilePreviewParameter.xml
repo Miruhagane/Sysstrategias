@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="CursoCec" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\AuxiliarProgramación\\Desktop\\Curso\ -\ copia\ -\ copia\ -\ copia\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\AuxiliarProgramación\\Desktop\\Curso\ -\ copia\ -\ copia\ -\ copia\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="SysDesarrolloHEntities-Web.config Connection String" description="" value="metadata=res://*/Models.Registro1.csdl|res://*/Models.Registro1.ssdl|res://*/Models.Registro1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=tcp:systrackuat.database.windows.net,1433;initial catalog=SysDesarrolloH;persist security info=False;user id=AdministradorCEC;password=Pankis@99;multipleactiveresultsets=False;connect timeout=30;encrypt=True;trustservercertificate=False;App=EntityFramework&quot;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\AuxiliarProgramación\\Desktop\\Curso\ -\ copia\ -\ copia\ -\ copia\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SysDesarrolloHEntities']/@connectionString" />
+  </parameter>
+  <parameter name="CursosEntities-Web.config Connection String" description="CursosEntities Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." value="metadata=res://*/Models.Registro.csdl|res://*/Models.Registro.ssdl|res://*/Models.Registro.msl;provider=System.Data.SqlClient;provider connection string=&quot;Server=tcp:systrackuat.database.windows.net,1433;Initial Catalog=SysDesarrolloH;Persist Security Info=False;User ID=AdministradorCEC;Password=Pankis@99;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\AuxiliarProgramación\\Desktop\\Curso\ -\ copia\ -\ copia\ -\ copia\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CursosEntities']/@connectionString" />
+  </parameter>
+</parameters>

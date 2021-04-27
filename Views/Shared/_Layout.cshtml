@@ -1,0 +1,310 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Cursos</title>
+
+    @*<link rel="stylesheet" href="~/Content/Contenido/StyleSheet1.css">*@
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <!-- Our Custom CSS -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+    <link href="~/Content/iPhone Media Query.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <!-- Font Awesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+
+    <title>@ViewBag.Title - CursosT</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <style>
+        .overlay {
+            height: 100%;
+            width: 0;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            background-color: rgba(172, 172, 172, 0.31);
+            overflow-x: hidden;
+            transition: 0.6s;
+        }
+
+        .overlay-content {
+            position: relative;
+            top: 33%;
+            width: 100%;
+            text-align: center;
+            margin-top: 15px;
+        }
+
+        .overlay a {
+            text-decoration: none;
+            font-size: 46px;
+            color: rgb(172, 172, 172);
+            display: block;
+            transition: 0.8s;
+        }
+
+            .overlay a:hover, .overlay a:focus {
+                color: rgb(172, 172, 172);
+            }
+
+        .overlay .closebtn {
+            position: absolute;
+            top: 30px;
+            right: 45px;
+            font-size: 60px;
+        }
+
+        .rounded {
+            border-radius: 5rem !important;
+            box-shadow: 1px 2px 2px grey;
+        }
+
+        #rounded {
+            border-radius: .55rem !important;
+        }
+
+
+
+
+
+        .backimg {
+            background-image: url('../../Content/Images/rombo sin fondo.svg');
+            background-repeat: no-repeat;
+            background-position-x: center;
+            background-position-y: -45px;
+            background-size: 45rem;
+        }
+
+        .menuText {
+            color: black;
+            font: bolder;
+        }
+    </style>
+</head>
+
+<body class="background">
+    <button style="font-size:22px;cursor:pointer;box-shadow:3px 3px 2px black" class="btn btn-dark badge rounded pt-0" onclick="openNav()">&#9776; Menú</button>
+
+    <div id="myNav" class="overlay  backimg">
+        <a href="javascript:void(0)" style="left:0;color:whitesmoke" class="closebtn" onclick="closeNav()">&times;</a>
+        <div class="overlay-content">
+            <div class="jumbotron align-content-center " style="opacity:0.8;padding-top:5px;height:auto !important">
+
+                <div class="row pl-2 pt-5">
+
+                    <div class="col-sm-2 pt-2">
+                        <a href="@Url.Action("Index", "Home")">
+
+                            <h5 class="menuText"><b>Material de Capacitación</b></h5>
+                        </a>
+                    </div>
+
+                    <div id="Usuarios" class="col-sm-2 pt-2 ">
+                        <a href="@Url.Action("GridMvcEmpleados", "Home")">
+
+                            <h5 class="menuText"><b>Usuarios</b></h5>
+                        </a>
+                    </div>
+
+                    <div id="VTiger" class="col-sm-2 pt-2 ">
+                        <a href="@Url.Action( "VTigerSection", "Home")">
+                            <h5 class="menuText"><b>VTiger</b></h5>
+                        </a>
+                    </div>
+
+                    <div id="Registro" class="col-sm-2 pt-2 ">
+                        <a href="@Url.Action( "Registro", "Home")">
+                            <h5 class="menuText"><b>Registro</b></h5>
+                        </a>
+                    </div>
+
+                    <div id="Contact" class="col-sm-2 pt-2 ">
+                        <a href="@Url.Action( "Contact", "Home")">
+                            <h5 class="menuText"><b>Contacto</b></h5>
+                        </a>
+                    </div>
+
+                    <div class="col-sm-2 pt-2">
+                        <a href="@Url.Action("Logout", "Home")">
+
+                            <h5 class="menuText"><b>Salir</b></h5>
+
+                        </a>
+
+                    </div>
+
+
+                </div>
+
+                <div class="row">
+                    <div class="col-4"></div>
+                    <div class="col-1">
+                        <p style="display:none">
+                            @{
+                                string Usuario = Convert.ToString(Session["Txt_Usuario"]);
+                                @Usuario
+                            }
+                        </p>
+                    </div>
+                    <div class="col-1">
+                        <input id="miNivel" style="display:none" value="
+                               @{
+                                string Nivel = Convert.ToString(Session["Int_IdNivel"]);
+                                @Nivel
+                            }" />
+                    </div>
+                </div>
+            </div>
+
+
+
+
+        </div>
+
+    </div>
+
+
+    <div class="container body-content ">
+        @RenderBody()
+        @*<footer class="footer" aling="center">
+                <p><strong>&copy;Cursos-@DateTime.Now.Year </strong> </p>
+            </footer>*@
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+
+    <script type="text/javascript">
+
+        (function () {
+            sidebarUser();
+        })();
+
+        function sidebarUser() {
+            var nivel = document.getElementById("miNivel").value;
+            console.log(nivel);
+
+            switch (nivel) {
+                case "1":
+                    console.log("16854");
+                    break;
+
+                case "2":
+                    console.log("9685412");
+                    document.getElementById("Usuarios").style.display = "none";
+                    document.getElementById("Registro").style.display = "none";
+                    document.getElementById("VTiger").style.display = "none";
+                    document.getElementById("Contact").style.display = "none";
+                    break;
+
+                default:
+                    console.log("no detectado");
+                    break;
+            }
+        }
+
+
+
+        function openNav() {
+            document.getElementById("myNav").style.width = "100%";
+        }
+
+        function closeNav() {
+            document.getElementById("myNav").style.width = "0%";
+        }
+
+        $("#Imprimir").hide();
+
+        $(function () {
+
+            // elementos de la lista
+            var menues = $(".my-class");
+
+            // manejador de click sobre todos los elementos
+            menues.click(function () {
+                // eliminamos active de todos los elementos
+                menues.removeClass("active");
+                // activamos el elemento clicado.
+                $(this).addClass("active");
+            });
+
+        });
+
+        $(function () {
+
+            // elementos de la lista
+            var menues = $("button");
+
+            // manejador de click sobre todos los elementos
+            menues.click(function () {
+                // eliminamos active de todos los elementos
+                menues.removeClass("active");
+                // activamos el elemento clicado.
+                $(this).addClass("active");
+            });
+
+        });
+
+
+        var dropdown = document.getElementsByClassName("dropdown-btn");
+        var i;
+
+        for (i = 0; i < dropdown.length; i++) {
+            dropdown[i].addEventListener("click", function () {
+                this.classList.toggle("active");
+                var dropdownContent = this.nextElementSibling;
+                if (dropdownContent.style.display === "block") {
+                    dropdownContent.style.display = "none";
+                } else {
+                    dropdownContent.style.display = "block";
+                }
+            });
+        }
+
+
+
+
+        function updateClock() {
+            var currentTime = new Date();
+
+            var currentHours = currentTime.getHours();
+            var currentMinutes = currentTime.getMinutes();
+            var currentSeconds = currentTime.getSeconds();
+
+            // Pad the minutes and seconds with leading zeros, if required
+            currentMinutes = (currentMinutes < 10 ? "0" : "") + currentMinutes;
+            currentSeconds = (currentSeconds < 10 ? "0" : "") + currentSeconds;
+
+            // Choose either "AM" or "PM" as appropriate
+            var timeOfDay = (currentHours < 12) ? "AM" : "PM";
+
+            // Convert the hours component to 12-hour format if needed
+            currentHours = (currentHours > 12) ? currentHours - 12 : currentHours;
+
+            // Convert an hours component of "0" to "12"
+            currentHours = (currentHours == 0) ? 12 : currentHours;
+
+            // Compose the string for display
+            var currentTimeString = currentHours + ":" + currentMinutes + ":" + currentSeconds + " " + timeOfDay;
+
+            // Update the time display
+            document.getElementById("clock").firstChild.nodeValue = currentTimeString;
+        }
+
+    </script>
+</body>
+</html>

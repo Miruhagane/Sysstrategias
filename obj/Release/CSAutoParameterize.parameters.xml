@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="CursosEntities-Web.config Connection String" description="CursosEntities Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="metadata=res://*/Models.Registro.csdl|res://*/Models.Registro.ssdl|res://*/Models.Registro.msl;provider=System.Data.SqlClient;provider connection string=&quot;Server=tcp:systrackuat.database.windows.net,1433;Initial Catalog=SysDesarrolloH;Persist Security Info=False;User ID=AdministradorCEC;Password=Pankis@99;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\CARLOS\\Desktop\\back\\Curso\ -\ copia\ -\ copia\ -\ copia\ -\ copia\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CursosEntities']/@connectionString" />
+  </parameter>
+  <parameter name="SysDesarrolloHEntities-Web.config Connection String" description="SysDesarrolloHEntities Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="metadata=res://*/Models.Registro1.csdl|res://*/Models.Registro1.ssdl|res://*/Models.Registro1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=tcp:systrackuat.database.windows.net,1433;initial catalog=SysDesarrolloH;persist security info=False;user id=AdministradorCEC;password=Pankis@99;multipleactiveresultsets=False;encrypt=True;trustservercertificate=False;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\CARLOS\\Desktop\\back\\Curso\ -\ copia\ -\ copia\ -\ copia\ -\ copia\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SysDesarrolloHEntities']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SysDesarrolloHModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Ct_ActivoCursos">
+    <Key>
+      <PropertyRef Name="Bol_Activo" />
+    </Key>
+    <Property Name="Bol_Activo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Txt_Activo" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ct_NivelCursos">
+    <Key>
+      <PropertyRef Name="Int_IdNivel" />
+    </Key>
+    <Property Name="Int_IdNivel" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Txt_Nivel" Type="nchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ct_Plaza">
+    <Key>
+      <PropertyRef Name="Int_IdPlaza" />
+    </Key>
+    <Property Name="Int_IdPlaza" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Txt_Plaza" Type="nchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Tb_UsuariosCurso">
+    <Key>
+      <PropertyRef Name="Int_IdUsuario" />
+    </Key>
+    <Property Name="Int_IdUsuario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Txt_Usuario" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Txt_Password" Type="nvarchar" MaxLength="8" Nullable="false" />
+    <Property Name="Int_IdGerente" Type="int" Nullable="false" />
+    <Property Name="Txt_Gerente" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Txt_Email" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Int_IdPlaza" Type="int" Nullable="false" />
+    <Property Name="Int_IdNivel" Type="int" Nullable="false" />
+    <Property Name="Fec_Inicio" Type="date" />
+    <Property Name="Fec_Fin" Type="date" />
+    <Property Name="Bol_Activo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="SysDesarrolloHModelStoreContainer">
+    <EntitySet Name="Ct_ActivoCursos" EntityType="Self.Ct_ActivoCursos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ct_NivelCursos" EntityType="Self.Ct_NivelCursos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ct_Plaza" EntityType="Self.Ct_Plaza" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tb_UsuariosCurso" EntityType="Self.Tb_UsuariosCurso" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

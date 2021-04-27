@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CursosModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Tb_Usuarios">
+    <Key>
+      <PropertyRef Name="Int_IdUsuario" />
+    </Key>
+    <Property Name="Int_IdUsuario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Txt_Usuario" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Txt_Password" Type="nvarchar" MaxLength="8" Nullable="false" />
+    <Property Name="Txt_Password2" Type="nvarchar" MaxLength="8" />
+    <Property Name="Txt_Password3" Type="nvarchar" MaxLength="8" />
+    <Property Name="Int_IdArea" Type="int" Nullable="false" />
+    <Property Name="Int_IdSubarea" Type="int" Nullable="false" />
+    <Property Name="Int_IdDepartamento" Type="int" Nullable="false" />
+    <Property Name="Txt_Email" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Int_IdPlaza" Type="int" Nullable="false" />
+    <Property Name="Int_IdArbol" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="CursosModelStoreContainer">
+    <EntitySet Name="Tb_Usuarios" EntityType="Self.Tb_Usuarios" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

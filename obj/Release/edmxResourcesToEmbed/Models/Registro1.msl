@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SysDesarrolloHModelStoreContainer" CdmEntityContainer="SysDesarrolloHEntities">
+    <EntitySetMapping Name="Ct_Plaza">
+      <EntityTypeMapping TypeName="SysDesarrolloHModel.Ct_Plaza">
+        <MappingFragment StoreEntitySet="Ct_Plaza">
+          <ScalarProperty Name="Txt_Plaza" ColumnName="Txt_Plaza" />
+          <ScalarProperty Name="Int_IdPlaza" ColumnName="Int_IdPlaza" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ct_NivelCursos">
+      <EntityTypeMapping TypeName="SysDesarrolloHModel.Ct_NivelCursos">
+        <MappingFragment StoreEntitySet="Ct_NivelCursos">
+          <ScalarProperty Name="Txt_Nivel" ColumnName="Txt_Nivel" />
+          <ScalarProperty Name="Int_IdNivel" ColumnName="Int_IdNivel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tb_UsuariosCurso">
+      <EntityTypeMapping TypeName="SysDesarrolloHModel.Tb_UsuariosCurso">
+        <MappingFragment StoreEntitySet="Tb_UsuariosCurso">
+          <ScalarProperty Name="Bol_Activo" ColumnName="Bol_Activo" />
+          <ScalarProperty Name="Fec_Fin" ColumnName="Fec_Fin" />
+          <ScalarProperty Name="Fec_Inicio" ColumnName="Fec_Inicio" />
+          <ScalarProperty Name="Int_IdNivel" ColumnName="Int_IdNivel" />
+          <ScalarProperty Name="Int_IdPlaza" ColumnName="Int_IdPlaza" />
+          <ScalarProperty Name="Txt_Email" ColumnName="Txt_Email" />
+          <ScalarProperty Name="Txt_Gerente" ColumnName="Txt_Gerente" />
+          <ScalarProperty Name="Int_IdGerente" ColumnName="Int_IdGerente" />
+          <ScalarProperty Name="Txt_Password" ColumnName="Txt_Password" />
+          <ScalarProperty Name="Txt_Usuario" ColumnName="Txt_Usuario" />
+          <ScalarProperty Name="Int_IdUsuario" ColumnName="Int_IdUsuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ct_ActivoCursos">
+      <EntityTypeMapping TypeName="SysDesarrolloHModel.Ct_ActivoCursos">
+        <MappingFragment StoreEntitySet="Ct_ActivoCursos">
+          <ScalarProperty Name="Txt_Activo" ColumnName="Txt_Activo" />
+          <ScalarProperty Name="Bol_Activo" ColumnName="Bol_Activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
