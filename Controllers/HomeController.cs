@@ -877,7 +877,7 @@ namespace Curso.Controllers
             }
             return View(tb_UsuariosCurso);
         }
-
+        //Refactorizar el código, hay mucho qué hacer
 
     }
 
